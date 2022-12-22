@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>In this we are making a form to take input from the user without CSS</h1>
-    <form>
+    <form action="" method="post">
         <label for="yourname"  >Your Name</label><br>
         <input type="text" name="yourname"  required><br>
         <label for="yourid" > Your Email ID</label><br>
@@ -22,8 +22,23 @@
             <option value="other">prefer not to say</option>
         </select>     <br><br>
         <!-- <input type="button" name="submit" value="Submit" width="10px"><br> -->
-        <textarea cols="30" rows="35" name="data">I am a student enthusiat in Cyber</textarea>
-        <button name="submit">Submit</button>
+        <textarea cols="35" rows="15" name="data">I am a student enthusiat in Cyber Security</textarea><br><br>
+        <label for="job">Choose your role</label><br>
+        <!-- <input type="radio" name="job" value="student">Student<br>
+        <input type="radio" name="job" value="teacher">Teacher<br>
+        <input type="radio" name="job" value="other">Other<br> -->
+        <input type="radio" name="job" value="student">
+        <label for="student">Student</label><br>
+        <input type="radio" name="job" value="teacher">
+        <label for="teacher">Teacher</label><br>
+        <input type="radio" name="job" value="other">
+        <label for="other">Other</label><br><br>
+        <input type="checkbox" name="remember">
+        <label for="remember">Remember me</label><br><br>
+        <label for="myfile">Choose file</label>
+        <input type="file" name="myfile " required><br><br>
+        <input type="date" name="date" required><br><br>
+        <button name="submit" onclick="alert('go ahead')">Submit</button>
     </form>
     <!-- <h1>In this we are making a form to take input from the user</h1> -->
 </body>
