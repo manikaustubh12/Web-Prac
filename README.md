@@ -27,6 +27,12 @@
 
 ![form](https://user-images.githubusercontent.com/91344066/208744409-abe4fa97-31e0-4abf-a11d-2d5e2da095ce.JPG)
 
+# inline tag used some work is here
+
+
+![w1](https://user-images.githubusercontent.com/91344066/209447504-cbbd6a1d-dd14-4377-8413-1cd3c47b6fe7.JPG)
+
+
 
 
 
