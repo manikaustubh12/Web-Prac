@@ -33,6 +33,13 @@
 ![w1](https://user-images.githubusercontent.com/91344066/209447504-cbbd6a1d-dd14-4377-8413-1cd3c47b6fe7.JPG)
 
 
+# inline with div tag as well
+
+
+![in1](https://user-images.githubusercontent.com/91344066/209476517-f3116c35-a4bb-49d1-b883-3d638e9b8a08.JPG)
+
+
+
 
 
 
