@@ -1,7 +1,39 @@
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
 h2{
     color: rgb(17, 5, 253);
     font-size: 25px;
     border-radius: 2px;
     background-color: aquamarine;
+}
+
+ul{
+    text-align: center;
+    background-color: darkcyan;
+}
+
+c1{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+.c1{
+    background-color: aquamarine;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    padding: 10px;
+    border-radius: 2px;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
     
 }
