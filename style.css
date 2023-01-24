@@ -54,11 +54,21 @@ h1{
     text-align: center;
 
 }
+div{
+    width: 150px;
+    height: 50px;
+    /* position: center;
+     */
+     /* text-align: center; */
+}
 .pahla{
     /* color: aqua;
      */
      background-color: lightcoral;
-     position: static;
+     /* position: static; */
+     position: relative;
+     top: 90px;
+     right: -10px;
 }
 .dusra{
     color: rgb(111, 4, 4);
@@ -66,5 +76,6 @@ h1{
     font-weight: bold;
     text-align: center;
     background-color: lime;
-    position: static;
+    /* position: static; */
+    position: relative;
 }
