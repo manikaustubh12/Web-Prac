@@ -63,5 +63,14 @@
 ![p3](https://user-images.githubusercontent.com/91344066/209707956-0197e0dc-5286-4728-9ca9-2031dc06866f.JPG)
 
 
+# z index 
+
+
+![z ind at 1](https://user-images.githubusercontent.com/91344066/218333835-0f948863-bf1c-4078-8548-b8433b3d2a8d.JPG)
+
+
+![z ind at -1](https://user-images.githubusercontent.com/91344066/218333855-daeeb3a9-19db-4673-96ce-acb067390f1f.JPG)
+
+
 
 
