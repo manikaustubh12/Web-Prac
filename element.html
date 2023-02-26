@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="style.css">
     <style> 
     p.letter::first-letter{
         color: rgb(217, 214, 230);
@@ -19,6 +20,18 @@
         color: rgb(227, 11, 61);
         font-size: 20px;
         background-color: rgb(104, 70, 70);
+    }
+    p.letter::before{
+        content: "This is the first element tag";
+        color: rgb(227, 11, 61);
+        font-size: 20px;
+        background-color: rgb(104, 70, 70);
+    }
+    p.line::after{
+        content: "this is after wala learning ";
+        color: rgb(227, 115, 11);
+        font-size: 20px;
+        /* background-color: rgb(96, 104, 70); */
     }
     </style>
 </head>
